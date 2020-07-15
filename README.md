@@ -8,12 +8,17 @@
 ## About me
 #### Easily attracts towards the box full of challenges. Web-Development is my right-hand & working in project related to python ful-fills my desire. 
 
+
+
+
+![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=Rohitraj-07&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
+
+<!-- For light mode of Github stats
+![_Rohit's github stats_](https://github-readme-stats.vercel.app/api?username=Rohitraj-07&show_icons=true&hide_border=true&&text_color=000000&icon_color=FFFFFF&hide=["stars","prs","issues","contribs"])
+-->
+
 <!--TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ -->
-
-![](https://github.com/Rohitraj-07/Rohitraj-07/blob/master/Profile.png)
-
-
 
 
 
@@ -32,3 +37,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+
+
+
+<!-- Hiding individual stats
+To hide any specific stats, you can pass a query parameter ?hide= with an array of items, you wanna hide.
+
+Options: &hide=["stars","prs","issues","contribs"]
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=["contribs","prs"])
+Showing icons
+To enable icons, you can pass show_icons=true in the query param like so
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+Other options:
+
+&hide_border=true hide the border box if you don't like it :D.
+&line_height=30 control the line-height between text.
+&hide_rank=true hides the ranking
+-->
