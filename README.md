@@ -1,14 +1,17 @@
 ## This Gitfolio welcomes you..! 🙏
+<p align="center">
+
 [![](https://img.shields.io/badge/Linkedin-Rohitraj07-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rohitraj07)
 [![](https://img.shields.io/badge/Gmail-1704379%40kiit.ac.in-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:1704379@kiit.ac.in)
 [![](https://img.shields.io/badge/Telegram-Rohitraj__07-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/Rohitraj_07)
 [![](https://img.shields.io/badge/HackerRank-Rohitraj__07-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/Rohitraj_07)
 
+</p>
+
 
 ## About me
 #### Easily attracts towards the box full of challenges. Web-Development is my right-hand & working in project related to python ful-fills my desire. 
 ![](https://github.com/Rohitraj-07/Rohitraj-07/blob/master/Profile.png)
-
 
 
 <!-- ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=Rohitraj-07&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
